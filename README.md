@@ -5,3 +5,6 @@ This programs parses a text files, making a list of all vocabulary used, orders 
 The final language hasn't been selected yet, so for now let's assume it's Italian.
 
 Work in progress!
+
+## Pseudocode
+We can write the pseudocode here.
