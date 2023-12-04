@@ -1,0 +1,939 @@
+1
+00:04:17,799 --> 00:04:21,220
+<i>Welcome to Gattaca.</i>
+
+2
+00:05:19,820 --> 00:05:23,490
+You keep your workstation so clean.
+
+3
+00:05:24,491 --> 00:05:29,955
+<i>- It's next to godliness.
+- Godliness ...</i>
+
+4
+00:05:30,122 --> 00:05:34,918
+I reviewed your flight plan. Not
+one error in a million keystrokes.
+
+5
+00:05:35,085 --> 00:05:40,299
+Phenomenal. It's right that someone
+like you is taking us to Titan.
+
+6
+00:05:40,507 --> 00:05:45,179
+Has the committee approved the
+mission? There's talk of delay.
+
+7
+00:05:45,345 --> 00:05:50,392
+You shouldn't listen to talk.
+You leave in a week.
+
+8
+00:05:50,601 --> 00:05:54,855
+You've got a substance test.
+
+9
+00:06:23,300 --> 00:06:29,556
+<i>If you have to take a substance
+test, report to the testing centre.</i>
+
+10
+00:06:37,231 --> 00:06:42,027
+Jerome. Never shy.
+Pisses on command.
+
+11
+00:06:42,236 --> 00:06:46,949
+- A beautiful piece of equipment.
+- You tell me every time I'm here.
+
+12
+00:06:47,115 --> 00:06:54,748
+I see a great many in my job.
+Yours happens to be exceptional.
+
+13
+00:06:55,916 --> 00:07:00,879
+Why didn't my folks
+order one like that for me?
+
+14
+00:07:15,811 --> 00:07:19,940
+- Have I ever told you about my son?
+- No.
+
+15
+00:07:20,107 --> 00:07:23,443
+Remind me to, sometime.
+
+16
+00:07:23,610 --> 00:07:28,740
+So you're about to go up.
+One week left.
+
+17
+00:07:28,949 --> 00:07:33,453
+Please tell me
+you're the least bit excited.
+
+18
+00:07:34,371 --> 00:07:38,876
+I'll tell you
+at the end of the week.
+
+19
+00:07:48,927 --> 00:07:52,347
+Congratulations, Jerome.
+
+20
+00:07:53,599 --> 00:07:56,643
+Thank you.
+
+21
+00:07:57,978 --> 00:08:03,108
+How many launches are there
+in a day? A dozen?
+
+22
+00:08:03,275 --> 00:08:10,240
+- Sometimes more.
+- Only you watch every one of them.
+
+23
+00:08:13,285 --> 00:08:18,499
+If you're going to pretend
+like you don't care, don't look up.
+
+24
+00:08:20,042 --> 00:08:21,710
+<i>The most unremarkable of events.</i>
+
+25
+00:08:23,003 --> 00:08:26,924
+<i>Jerome Morrow, Navigator 1 st Class,
+is about to embark -</i>
+
+26
+00:08:27,132 --> 00:08:33,180
+<i>- on a one-year manned mission
+to Titan, the 14th moon of Saturn.</i>
+
+27
+00:08:33,347 --> 00:08:39,269
+<i>This highly prestigious assignment
+was guaranteed Jerome at birth.</i>
+
+28
+00:08:40,604 --> 00:08:47,611
+<i>He has all the gifts required.
+A genetic quotient second to none.</i>
+
+29
+00:08:47,778 --> 00:08:53,242
+<i>There's nothing remarkable about
+the progress of Jerome Morrow.</i>
+
+30
+00:08:53,408 --> 00:08:57,162
+<i>Except that I am not Jerome Morrow.</i>
+
+31
+00:09:05,546 --> 00:09:10,592
+<i>I was conceived in the Riviera.
+Not the French Riviera.</i>
+
+32
+00:09:10,759 --> 00:09:13,887
+<i>The Detroit variety.</i>
+
+33
+00:09:14,054 --> 00:09:20,060
+<i>They used to say that a love child
+has a greater chance of happiness.</i>
+
+34
+00:09:20,227 --> 00:09:23,438
+<i>They don't say that any more.</i>
+
+35
+00:09:24,857 --> 00:09:28,694
+<i>I don't know
+why my mother trusted God -</i>
+
+36
+00:09:28,861 --> 00:09:31,989
+<i>- rather than her local geneticist.</i>
+
+37
+00:09:34,575 --> 00:09:39,538
+<i>Ten fingers, ten toes, that's all
+that used to matter... Not now.</i>
+
+38
+00:09:39,705 --> 00:09:46,211
+<i>Only seconds old, the ex act time
+and cause of my death was known.</i>
+
+39
+00:09:50,465 --> 00:09:56,096
+Neurological condition, 60%,
+manic depression, 42% probability.
+
+40
+00:09:56,263 --> 00:10:01,059
+<i>Attention deficit disorder,
+89% probability. Heart disorder ...</i>
+
+41
+00:10:03,437 --> 00:10:07,482
+<i>... 99% probability.
+Early fatal potential.</i>
+
+42
+00:10:07,649 --> 00:10:14,072
+- Life expectancy: 30.2 years.
+- 30 years?
+
+43
+00:10:15,240 --> 00:10:20,621
+<i>- The name for the certificate?
+- Vincent Anton.</i>
+
+44
+00:10:22,998 --> 00:10:25,876
+That's a good name.
+
+45
+00:10:29,004 --> 00:10:33,467
+I know he'll do something.
+You'll do something.
+
+46
+00:10:38,222 --> 00:10:43,185
+<i>I quickly thought of myself
+as others did. Chronically ill.</i>
+
+47
+00:10:43,352 --> 00:10:47,481
+<i>Every skinned knee and runny nose
+was treated as a fatal threat.</i>
+
+48
+00:10:47,648 --> 00:10:54,780
+<i>The insurance won't cover it. If he
+fell ... There's nothing I can do.</i>
+
+49
+00:11:04,289 --> 00:11:08,418
+<i>Like most other parents then,
+they wanted their next child -</i>
+
+50
+00:11:08,585 --> 00:11:13,382
+<i>- to be conceived in what
+has become the natural way.</i>
+
+51
+00:11:13,590 --> 00:11:17,678
+Your extracted eggs, Marie, -
+
+52
+00:11:17,845 --> 00:11:22,641
+- have been fertilized
+with Antonio's sperm.
+
+53
+00:11:22,850 --> 00:11:28,605
+We have screened two healthy boys
+and two very healthy girls.
+
+54
+00:11:28,772 --> 00:11:33,277
+Without predispositions
+to any inheritable diseases.
+
+55
+00:11:33,443 --> 00:11:41,076
+Let's select the most compatible
+candidate. What gender do you want?
+
+56
+00:11:41,243 --> 00:11:47,499
+We would want Vincent
+to have a brother to play with.
+
+57
+00:11:50,544 --> 00:11:56,133
+<i>You have specified hazel eyes,
+dark hair and ... fair skin.</i>
+
+58
+00:11:56,300 --> 00:11:59,970
+I've eradicated
+prejudicial conditions:
+
+59
+00:12:00,137 --> 00:12:06,894
+Premature baldness, alcoholism,
+propensity for violence, obesity.
+
+60
+00:12:07,060 --> 00:12:11,064
+<i>We didn't want ...
+Diseases, yes, but ...</i>
+
+61
+00:12:11,231 --> 00:12:15,235
+We would like to leave
+a few things to chance.
+
+62
+00:12:15,402 --> 00:12:21,325
+Give your child the best start. We
+have enough imperfection built-in.
+
+63
+00:12:21,491 --> 00:12:27,498
+Your child doesn't need any
+additional burdens. It's still you.
+
+64
+00:12:27,706 --> 00:12:30,751
+Simply the best of you.
+
+65
+00:12:30,918 --> 00:12:35,797
+You could conceive naturally 1,000
+times and never get such a result.
+
+66
+00:12:37,257 --> 00:12:44,181
+<i>That's how Anton came to be.
+A son worthy of my father's name.</i>
+
+67
+00:12:55,817 --> 00:13:01,907
+- I'm proud of you, son.
+- See how much he's grown.
+
+68
+00:13:15,462 --> 00:13:18,215
+<i>When we played blood brothers -</i>
+
+69
+00:13:18,382 --> 00:13:22,302
+<i>- I understood my blood was
+very different from Anton's.</i>
+
+70
+00:13:22,511 --> 00:13:28,559
+<i>I'd need a lot more than a drop
+if I was going to get anywhere.</i>
+
+71
+00:13:48,162 --> 00:13:52,082
+<i>We played chicken.
+When our parents weren't watching -</i>
+
+72
+00:13:52,291 --> 00:13:58,380
+<i>- we'd swim as far out as we dared
+and see who'd turn back first.</i>
+
+73
+00:14:12,644 --> 00:14:15,772
+Come on, you coward!
+
+74
+00:14:16,857 --> 00:14:19,860
+<i>Of course it was always me.</i>
+
+75
+00:14:20,027 --> 00:14:25,616
+<i>Anton was the stronger swimmer
+and had no excuse to fail.</i>
+
+76
+00:14:28,577 --> 00:14:33,624
+300 million,
+350 million, 400 million.
+
+77
+00:14:33,832 --> 00:14:38,962
+<i>Maybe it was my love of the planets
+or just my dislike for this one, -</i>
+
+78
+00:14:39,171 --> 00:14:44,384
+<i>- but for as long as I remember
+I've dreamed of going into space.</i>
+
+79
+00:14:44,593 --> 00:14:50,307
+750 million,
+800 million, 850 million.
+
+80
+00:14:50,474 --> 00:14:56,480
+How many astronauts are there?
+I bet I could be one if I wanted.
+
+81
+00:14:56,647 --> 00:14:59,900
+Don't eat that. It's Pluto.
+
+82
+00:15:02,778 --> 00:15:09,785
+<i>My goals didn't change a lot.
+Much to my parents' dismay.</i>
+
+83
+00:15:09,952 --> 00:15:13,205
+<i>Vincent ...</i>
+
+84
+00:15:17,334 --> 00:15:21,713
+<i>Be realistic. With
+a heart condition like yours ...</i>
+
+85
+00:15:21,880 --> 00:15:28,595
+- There's a chance my heart's fine.
+- One chance in 100.
+
+86
+00:15:28,762 --> 00:15:33,725
+- I'll take it.
+- They won't.
+
+87
+00:15:33,892 --> 00:15:38,522
+You've got to understand something.
+
+88
+00:15:43,110 --> 00:15:46,613
+You'll only get inside a spaceship
+to clean it.
+
+89
+00:15:46,780 --> 00:15:54,997
+<i>He was right. I lied on my resume,
+but my real resume was my cells.</i>
+
+90
+00:15:55,164 --> 00:15:58,750
+<i>Why waste money on training me -</i>
+
+91
+00:15:58,917 --> 00:16:03,338
+<i>- when there are 1, 000 other
+applicants with a cleaner profile?</i>
+
+92
+00:16:03,505 --> 00:16:07,968
+<i>It is illegal to discriminate.
+"Genoism", it's called.</i>
+
+93
+00:16:08,135 --> 00:16:11,013
+<i>But no one takes the law seriously.</i>
+
+94
+00:16:18,061 --> 00:16:23,108
+<i>If you refuse to tell, they take
+a sample from a door handle -</i>
+
+95
+00:16:23,317 --> 00:16:28,989
+<i>- or a handshake. Even the saliva
+on your application form.</i>
+
+96
+00:16:29,156 --> 00:16:32,576
+<i>A legal drug test can become-</i>
+
+97
+00:16:32,784 --> 00:16:38,874
+<i>- an illegal peek
+at your future in the company.</i>
+
+98
+00:16:44,838 --> 00:16:49,510
+Sure you want to do this?
+You know you're going to lose.
+
+99
+00:16:58,810 --> 00:17:03,357
+<i>It was the last time we swam
+together. Out into the open sea.</i>
+
+100
+00:17:03,524 --> 00:17:10,113
+<i>Knowing each stroke out was one
+we'd have to make back.</i>
+
+101
+00:17:22,876 --> 00:17:28,090
+<i>But something was different. Every
+time Anton tried to pull away -</i>
+
+102
+00:17:28,298 --> 00:17:32,386
+<i>- he found me right beside him.</i>
+
+103
+00:17:34,054 --> 00:17:38,100
+<i>Until finally
+the impossible happened.</i>
+
+104
+00:17:38,267 --> 00:17:40,310
+Vincent!
+
+105
+00:17:55,534 --> 00:18:00,164
+<i>For once in our lives Anton was
+not as strong as he believed -</i>
+
+106
+00:18:00,372 --> 00:18:05,586
+<i>- and I was not as weak. That
+made everything else possible.</i>
+
+107
+00:18:49,838 --> 00:18:55,928
+<i>Like others in my situation I moved
+around getting work where I could.</i>
+
+108
+00:18:56,136 --> 00:19:00,599
+<i>I must've cleaned
+half the toilets in the state.</i>
+
+109
+00:19:00,766 --> 00:19:06,939
+<i>The underclass wasn't determined
+by social status or skin colour now.</i>
+
+110
+00:19:07,147 --> 00:19:13,487
+<i>- Welcome to Gattaca, gentlemen.
+- Today discrimination is a science.</i>
+
+111
+00:19:13,654 --> 00:19:19,243
+There's your cleaning material.
+Start here and clean to the back.
+
+112
+00:19:19,409 --> 00:19:23,163
+I want to see my smiling face
+on that floor.
+
+113
+00:19:32,005 --> 00:19:36,218
+Dreaming of space, Your Majesty?
+
+114
+00:19:36,385 --> 00:19:39,471
+Come here.
+
+115
+00:19:42,558 --> 00:19:45,561
+Start by cleaning this space.
+
+116
+00:19:48,480 --> 00:19:54,653
+<i>I knew how far away I was from my
+goal when I stood right beside it.</i>
+
+117
+00:21:07,017 --> 00:21:11,438
+- Don't clean the glass too well.
+- What do you mean?
+
+118
+00:21:11,605 --> 00:21:14,274
+You might get ideas.
+
+119
+00:21:14,441 --> 00:21:19,821
+But if the glass is clean, it'll be
+easier to see me on the other side.
+
+120
+00:22:10,873 --> 00:22:16,003
+<i>I knew it was just brave talk.
+No matter how much I studied, -</i>
+
+121
+00:22:16,170 --> 00:22:20,841
+<i>- the best test score in the world
+needs a blood test to match it.</i>
+
+122
+00:22:22,801 --> 00:22:26,805
+<i>I had to go to extreme measures.</i>
+
+123
+00:22:26,972 --> 00:22:31,685
+<i>The man who came didn't exactly
+advertise in the Yellow Pages.</i>
+
+124
+00:22:31,852 --> 00:22:34,396
+Stand straight.
+
+125
+00:22:35,397 --> 00:22:39,318
+- How did you hear about me?
+- People.
+
+126
+00:22:39,526 --> 00:22:44,823
+Any distinguishing marks?
+Tattoos, scars, birth marks?
+
+127
+00:22:44,990 --> 00:22:47,534
+No.
+
+128
+00:22:47,701 --> 00:22:52,372
+Are you serious about this?
+I hope you're not wasting my time.
+
+129
+00:22:52,539 --> 00:22:58,086
+- I'd give 100%.
+- That'll get you halfway there.
+
+130
+00:22:58,253 --> 00:23:04,843
+That's an old edition,
+but I know it all by heart.
+
+131
+00:23:07,137 --> 00:23:12,267
+- The commitment is binding.
+- You have somebody in mind?
+
+132
+00:23:33,914 --> 00:23:39,920
+<i>For the genetic elite, success
+is attainable, but not guaranteed.</i>
+
+133
+00:23:40,087 --> 00:23:44,299
+<i>There is no gene for fate.</i>
+
+134
+00:23:44,466 --> 00:23:49,763
+<i>And when a member of the elite
+falls on hard times -</i>
+
+135
+00:23:49,930 --> 00:23:54,268
+<i>- their genetic identity
+becomes a valued commodity.</i>
+
+136
+00:23:54,434 --> 00:23:57,312
+<i>One man's loss is another's gain.</i>
+
+137
+00:23:57,479 --> 00:24:01,233
+He's got impeccable credentials.
+An unbelievable expiration date.
+
+138
+00:24:06,947 --> 00:24:12,077
+He'll practically live forever.
+His IQ is off the register.
+
+139
+00:24:12,286 --> 00:24:18,959
+Better than 20/20 vision. Strong
+heart. He could run through a wall.
+
+140
+00:24:23,422 --> 00:24:27,092
+If he could still run.
+
+141
+00:24:27,301 --> 00:24:31,388
+He was a big-time swimming star.
+
+142
+00:24:31,555 --> 00:24:37,978
+You could go anywhere with this
+guy's DNA tucked under your arm.
+
+143
+00:24:40,981 --> 00:24:46,486
+- You look so right together.
+- We don't look anything alike.
+
+144
+00:24:46,653 --> 00:24:52,826
+Nobody looks at photos today.
+Christ, you could have my face.
+
+145
+00:24:53,035 --> 00:24:58,790
+- How do I explain the accident?
+- It happened out of the country.
+
+146
+00:24:58,957 --> 00:25:06,006
+No one knows he broke his back. He's
+still a fully productive citizen.
+
+147
+00:25:06,173 --> 00:25:12,012
+- Just fill in his last year.
+- You're a foreigner.
+
+148
+00:25:12,179 --> 00:25:17,684
+They don't care where you were born.
+Blood has no nationality.
+
+149
+00:25:17,851 --> 00:25:22,439
+As long as it's got what they want,
+it's the only passport you'll need.
+
+150
+00:25:23,857 --> 00:25:29,863
+- Who lives up there?
+- Well, I certainly don't.
+
+151
+00:25:30,656 --> 00:25:34,159
+<i>The process of becoming him began.</i>
+
+152
+00:25:34,326 --> 00:25:38,705
+<i>Myopia is one of the most obvious
+signs of a disadvantaged birth.</i>
+
+153
+00:25:38,872 --> 00:25:43,627
+- Isn't there another way?
+- Surgery will leave scars.
+
+154
+00:25:43,794 --> 00:25:47,923
+It's contact lenses or a white cane.
+
+155
+00:25:48,090 --> 00:25:52,719
+- Besides, the colour doesn't match.
+- He's right.
+
+156
+00:25:52,886 --> 00:25:56,723
+My eyes are prettier.
+
+157
+00:25:58,392 --> 00:26:01,353
+I take 25% of all you make.
+
+158
+00:26:01,520 --> 00:26:06,567
+If it fails, all this equipment
+must be returned in seven days.
+
+159
+00:26:06,733 --> 00:26:10,904
+- And you lose your deposit.
+- Wait! You said 20%.
+
+160
+00:26:11,071 --> 00:26:14,158
+- 20%.
+- It's not negotiable.
+
+161
+00:26:29,798 --> 00:26:35,679
+- I guess that's it.
+- No. There's still the height.
+
+162
+00:26:35,846 --> 00:26:41,185
+How tall were you
+before the accident?
+
+163
+00:26:41,351 --> 00:26:47,107
+- His profile says he's 6' 1 ".
+- I can wear lifts.
+
+164
+00:26:48,775 --> 00:26:53,739
+Even with lifts
+you're not that tall.
+
+165
+00:26:53,947 --> 00:26:57,284
+So what?
+
+166
+00:27:01,788 --> 00:27:04,082
+<i>No ...</i>
+
+167
+00:27:07,127 --> 00:27:11,215
+- We never discussed that.
+- I thought you were serious.
+
+168
+00:27:11,381 --> 00:27:15,511
+I am. I'm not doing that.
+
+169
+00:27:18,847 --> 00:27:20,807
+No.
+
+170
+00:27:27,314 --> 00:27:30,234
+<i>Now Jerome knew I was committed.</i>
+
+171
+00:27:30,400 --> 00:27:35,155
+<i>I endured the pain by reminding
+myself that when I did stand up -</i>
+
+172
+00:27:35,322 --> 00:27:39,493
+<i>- I'd be exactly two inches
+closer to the stars.</i>
+
+173
+00:27:39,660 --> 00:27:47,876
+- Are you all right?
+- Yeah. Do you want to go dancing?
+
+174
+00:27:49,670 --> 00:27:55,092
+You had to be a right-hander.
+No one orders southpaws any more.
+
+175
+00:27:56,593 --> 00:28:01,807
+Jerome Morrow. It's a nice name.
+
+176
+00:28:04,017 --> 00:28:08,021
+- It's my name.
+- I can't be you without it.
+
+177
+00:28:08,188 --> 00:28:12,317
+What makes you think
+you can be me at all?
+
+178
+00:28:19,700 --> 00:28:22,703
+Look at this.
+
+179
+00:28:22,870 --> 00:28:27,374
+- Look at it.
+- It's nice.
+
+180
+00:28:28,625 --> 00:28:35,799
+- Is it real?
+- Are you colour-blind? It's silver.
+
+181
+00:28:35,966 --> 00:28:41,346
+Jerome Morrow was never meant
+to be one step down on the podium.
+
+182
+00:28:41,513 --> 00:28:48,687
+With all I had going for me,
+I was still second best.
+
+183
+00:28:48,854 --> 00:28:54,401
+Me!
+So how do you expect to pull it off?
+
+184
+00:28:57,070 --> 00:29:00,574
+I don't know, exactly.
+
+185
+00:29:04,161 --> 00:29:07,206
+Your signature needs work.
+
+186
+00:29:07,372 --> 00:29:10,250
+<i>Soon we were put to the test.</i>
+
+187
+00:29:10,417 --> 00:29:17,090
+<i>Jerome had the genes to get
+into Gattaca, but not the desire.</i>
+
+188
+00:29:17,257 --> 00:29:22,679
+- Do you really want to be in there?
+- Not in there. Up there.
+
+189
+00:29:25,057 --> 00:29:30,771
+- What's up there?
+- That's want I want to see, Jerome.
+
+190
+00:29:31,772 --> 00:29:36,735
+Call me Eugene. My middle name.
+
+191
+00:29:37,903 --> 00:29:41,990
+If you're going to be Jerome,
+you better start getting used to it.
+
+192
+00:29:51,625 --> 00:29:56,129
+- I must go. Where's my sample?
+- In the fridge. Door on the left.
+
+193
+00:29:57,714 --> 00:30:01,802
+- Which pouch?
+- Any of them.
+
+194
+00:30:03,846 --> 00:30:09,142
+- You think I should test it?
+- If you like.
+
+195
+00:30:16,275 --> 00:30:21,155
+- What's wrong with the machine?
+- You've been drinking again!
+
+196
+00:30:21,321 --> 00:30:26,118
+- I haven't.
+- Christ, it's eight in the morning!
+
+197
+00:30:33,250 --> 00:30:38,046
+This is no joke.
+My interview is in an hour!
+
+198
+00:30:42,801 --> 00:30:49,683
+- There's more vodka than piss!
+- I had half a glass to celebrate.
+

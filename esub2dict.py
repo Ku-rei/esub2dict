@@ -12,9 +12,25 @@ if __name__ == "__main__":
 
     userfile = sys.argv[1] #takes the command line argument and assigns it a variable "userfile"
     
-
+    allowed_char = ['-', "'", ' ', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'
+]
     with open(userfile, 'r') as file:   # use "with" to avoid deadlocks in case the program crashes 
         # data = file.read() # Creates a string of all the file. N.B it moves the pointer file to the end of the file!!
         
+
         for line in file:
-            print(line, end='')  # Just for testing, remove later.
+            for index in range(len(line)): # measures line length and goes through it, character by character
+                if index < len(line) - 1:   # needed to avoid error: Python index going outside of the list
+                    next = line[index + 1]  # names the next character
+                    if line[index] == 'i' and (next == '>'):    # removes html tag. PROBLEM REMOVES OTHER 'i's
+                          line = line.replace(line[index],' ')
+                    if line[index] == '-' and (next == '-'):    # removes "-->" between srt timestamps
+                          line = line.replace(line[index],' ')
+                          line = line.replace(line[index+1],' ')
+                    if line[index] == '-' and ((next not in allowed_char) or (next == ' ')):    # removes all other weird dashes
+                          line = line.replace(line[index],' ')
+                          line = line.replace(line[index+1],' ')
+                
+                if line[index] not in allowed_char: # removes all characters unless alphabetical or dash/apostrophe.
+                    line = line.replace(line[index],' ')
+            print(line,end='\n')
