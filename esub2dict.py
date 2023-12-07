@@ -39,6 +39,7 @@ if __name__ == "__main__":
             # print(line,end='\n')
             words = line.split()
             for i in words:
+                 i = i.lower()
                  wordlist.append(i)  # can append only one word per time
         
         wordlist = list(set(wordlist))  # removes duplicates through a set
