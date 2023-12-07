@@ -14,6 +14,9 @@ if __name__ == "__main__":
     
     allowed_char = ['-', "'", ' ', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'
 ]
+    
+    wordlist = []
+
     with open(userfile, 'r') as file:   # use "with" to avoid deadlocks in case the program crashes 
         # data = file.read() # Creates a string of all the file. N.B it moves the pointer file to the end of the file!!
         
@@ -33,4 +36,15 @@ if __name__ == "__main__":
                 
                 if line[index] not in allowed_char: # removes all characters unless alphabetical or dash/apostrophe.
                     line = line.replace(line[index],' ')
-            print(line,end='\n')
+            # print(line,end='\n')
+            words = line.split()
+            for i in words:
+                 wordlist.append(i)  # can append only one word per time
+        
+        wordlist.sort() # sort the list alphabetically 
+
+        print(str(len(wordlist)))
+        for i in wordlist:
+             print(str(i))
+
+        print(str(len(wordlist)))
