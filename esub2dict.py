@@ -41,6 +41,7 @@ if __name__ == "__main__":
             for i in words:
                  wordlist.append(i)  # can append only one word per time
         
+        wordlist = list(set(wordlist))  # removes duplicates through a set
         wordlist.sort() # sort the list alphabetically 
 
         print(str(len(wordlist)))
