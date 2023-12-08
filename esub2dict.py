@@ -1,20 +1,16 @@
 #!/usr/bin/env python3
 
-import sys
-
-if __name__ == "__main__":
-    if len(sys.argv) != 2:      #check that the user provided only one argument (the text file), if not exit with error code 1
+def main(argum):
+    if len(argum) != 2:      #check that the user provided only one argument (the text file), if not exit with error code 1
         print("Something is wrong with the arguments. You need to provide the filename after the program's name")
         sys.exit(1)
     '''sys.argv is 1 if the script/program executes with no additional arguments (aside for the name of the scrip)
     +1 for any other argument, like the text file name here'''    
-
-
-    userfile = sys.argv[1] #takes the command line argument and assigns it a variable "userfile"
     
+    userfile = argum[1] #takes the command line argument and assigns it to a variable "userfile"
+
     allowed_char = ['-', "'", ' ', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'
 ]
-    
     wordlist = []
 
     with open(userfile, 'r') as file:   # use "with" to avoid deadlocks in case the program crashes 
@@ -42,7 +38,7 @@ if __name__ == "__main__":
                  i = i.lower()
                  wordlist.append(i)  # can append only one word per time
         
-        wordlist = list(set(wordlist))  # removes duplicates through a set
+        wordlist = list(set(wordlist))  # removes duplicates through a set. WHAT ABOUT NAMES?
         wordlist.sort() # sort the list alphabetically 
 
         print(str(len(wordlist)))
@@ -50,3 +46,22 @@ if __name__ == "__main__":
              print(str(i))
 
         print(str(len(wordlist)))
+
+        for i in wordlist:
+             if "'" in i:
+                  print(i)
+
+
+if __name__ == "__main__":
+    import sys
+    main(sys.argv)
+    
+
+
+   
+    
+    
+    
+    
+
+    
