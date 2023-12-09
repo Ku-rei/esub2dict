@@ -4,8 +4,8 @@ def main(argum):
     if len(argum) != 2:      #check that the user provided only one argument (the text file), if not exit with error code 1
         print("Something is wrong with the arguments. You need to provide the filename after the program's name")
         sys.exit(1)
-    '''sys.argv is 1 if the script/program executes with no additional arguments (aside for the name of the scrip)
-    +1 for any other argument, like the text file name here'''    
+    # '''sys.argv is 1 if the script/program executes with no additional arguments (aside for the name of the script)
+    # +1 for any other argument, like the text file name here'''    
     
     userfile = argum[1] #takes the command line argument and assigns it to a variable "userfile"
 
