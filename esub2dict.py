@@ -1,5 +1,15 @@
 #!/usr/bin/env python3
 
+import sys
+import re
+
+def remove_tags(input_text):  # Regular expression to remove the <i> and </i> and other similar tags
+    # regular expression pattern to match tags
+    pattern = re.compile(r'<[^>]*>')
+    
+    # use the pattern to remove all tags
+    return re.sub(pattern, '', input_text)
+
 def main(argum):
     if len(argum) != 2:      #check that the user provided only one argument (the text file), if not exit with error code 1
         print("Something is wrong with the arguments. You need to provide the filename after the program's name")
@@ -18,11 +28,12 @@ def main(argum):
         
 
         for line in file:
+            line = remove_tags(line)
             for index in range(len(line)): # measures line length and goes through it, character by character
                 if index < len(line) - 1:   # needed to avoid error: Python index going outside of the list
                     next = line[index + 1]  # names the next character
-                    if line[index] == 'i' and (next == '>'):    # removes html tag. PROBLEM REMOVES OTHER 'i's
-                          line = line.replace(line[index],' ')
+                    # if line[index] == 'i' and (next == '>'):    # removes html tag. PROBLEM REMOVES OTHER 'i's
+                    #       line = line.replace(line[index],' ')
                     if line[index] == '-' and (next == '-'):    # removes "-->" between srt timestamps
                           line = line.replace(line[index],' ')
                           line = line.replace(line[index+1],' ')
@@ -53,7 +64,6 @@ def main(argum):
 
 
 if __name__ == "__main__":
-    import sys
     main(sys.argv)
     
 
